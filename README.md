@@ -1,11 +1,25 @@
-css testing with github
-    <h1 style="color:red">Hello Friends</h1>
-# Welcome to My Project
+# My Project
 
-This is a simple example of inline styling in Markdown:
+Welcome to the documentation of my project! Here's everything you need to know.
 
-<h1 style="color: red;">Hello Friends</h1>
+## Table of Contents
+1. [What is this project about?](#what-is-this-project-about)
+2. [How to install?](#how-to-install)
+3. [How does it work?](#how-does-it-work)
+4. [FAQ](#faq)
 
-## Alternatives for Custom Styling
-- Use **GitHub Pages** for advanced styling.
-- Include styled images or badges.
+---
+
+## What is this project about?
+This project is a tool to...
+
+![Screenshot](https://link-to-image.com/screenshot.png)
+
+---
+
+## How to install?
+Follow these steps:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/vinitrathore/Gallery.git
