@@ -1,5 +1,5 @@
 # My Project
-
+author : Vinit Kumar Rathore
 Welcome to the documentation of my project! Here's everything you need to know.
 
 ## Table of Contents
